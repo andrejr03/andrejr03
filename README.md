@@ -10,6 +10,24 @@ I'm especially drawn to **AI Evaluation**: studying how reliable a model actuall
 
 ## Selected AI Projects
 
+### Crosswise — AI Document Reconciliation System
+
+<img src="assets/CROSSWISE_REVIEWER_DISCREPANCY_SHOWCASE.png" alt="Crosswise document reconciliation discrepancy showcase" width="380" />
+
+An AI system that reconciles invoices, purchase orders, and receipts, detects field-level discrepancies, preserves evidence, measures reliability, and routes uncertain cases to human review.
+
+**Focus:** Document Intelligence · Reconciliation Systems · Reliability Scoring · Human Review · Explainable AI
+**Status:** Portfolio Project
+
+### LexiBench AI — Source-Grounded EU AI Act Reliability Benchmark
+
+<img src="assets/LEXIBENCH_AI_LINKEDIN_SHOWCASE_v1.0.png" alt="LexiBench AI reliability benchmark showcase" width="380" />
+
+A research-style benchmark that measures how reliably an AI system answers questions about the EU AI Act, with every answer checked against grounded source evidence. The emphasis is on responsible AI: distinguishing well-supported answers from unsupported ones.
+
+**Focus:** AI Evaluation · Reliability · Evidence Grounding · Responsible AI
+**Status:** Research-Style Portfolio Project
+
 ### StatSport — Explainable Football Match Prediction
 
 <img src="assets/STATSPORT_PREDICTION_CENTER_SHOWCASE_2027_v1.0.png" alt="StatSport prediction center showcase" width="380" />
@@ -27,15 +45,6 @@ A recommendation system that helps students find housing that fits their needs, 
 
 **Focus:** Recommendation Systems · Decision Intelligence · Geospatial Analytics · Student Fit Scoring
 **Status:** Portfolio Project
-
-### LexiBench AI — Source-Grounded EU AI Act Reliability Benchmark
-
-<img src="assets/LEXIBENCH_AI_LINKEDIN_SHOWCASE_v1.0.png" alt="LexiBench AI reliability benchmark showcase" width="380" />
-
-A research-style benchmark that measures how reliably an AI system answers questions about the EU AI Act, with every answer checked against grounded source evidence. The emphasis is on responsible AI: distinguishing well-supported answers from unsupported ones.
-
-**Focus:** AI Evaluation · Reliability · Evidence Grounding · Responsible AI
-**Status:** Research-Style Portfolio Project
 
 ## Technical Interests
 
