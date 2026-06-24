@@ -19,13 +19,13 @@ An AI system that reconciles invoices, purchase orders, and receipts, detects fi
 **Focus:** Document Intelligence · Reconciliation Systems · Reliability Scoring · Human Review · Explainable AI
 **Status:** Portfolio Project
 
-### LexiBench AI — Source-Grounded EU AI Act Reliability Benchmark
+### LexiBench AI — AI Evaluation & Reliability Workbench
 
-<img src="assets/LEXIBENCH_AI_LINKEDIN_SHOWCASE_v1.0.png" alt="LexiBench AI reliability benchmark showcase" width="380" />
+<img src="assets/LEXIBENCH_AI_WORKBENCH_HERO_v1.0.png" alt="LexiBench AI evaluation workbench showcase" width="520" />
 
-A research-style benchmark that measures how reliably an AI system answers questions about the EU AI Act, with every answer checked against grounded source evidence. The emphasis is on responsible AI: distinguishing well-supported answers from unsupported ones.
+An AI evaluation and reliability project for source-grounded question answering over the EU AI Act. LexiBench combines a versioned benchmark, evidence-completeness scoring, retrieval evaluation, failure taxonomy, and a static evaluation workbench to measure how reliably AI systems answer source-grounded questions.
 
-**Focus:** AI Evaluation · Reliability · Evidence Grounding · Responsible AI
+**Focus:** AI Evaluation · Reliability Engineering · Evidence Completeness · Grounded Retrieval · Responsible AI
 **Status:** Research-Style Portfolio Project
 
 ### StatSport — Explainable Football Match Prediction
