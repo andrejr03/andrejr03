@@ -1,26 +1,26 @@
 # André Ramos
 
-**Incoming Artificial Intelligence Student | LLM Engineering, AI Systems Engineering & Agentic AI**
+**Incoming Artificial Intelligence Student | AI Systems Engineering, LLMOps, Backend & Platform Engineering**
 
-Portuguese student preparing to begin university studies in Artificial Intelligence, building independent portfolio projects in machine learning, recommendation systems, and AI evaluation. I learn by creating end-to-end projects — from data and models to usable applications — rather than stopping at notebooks.
+I am preparing to begin university studies in Artificial Intelligence while building independent portfolio projects around reliable AI systems, local-first runtimes, backend services, and evaluation workflows.
 
-My core interests sit at the intersection of **Machine Learning**, **Recommendation Systems**, and **Explainable AI**. I care less about chasing accuracy alone and more about building systems whose decisions can be understood, justified, and trusted.
+My work focuses on building reliable AI systems with deterministic execution, persistence, observability, operational tooling, and clear feedback loops for continuous improvement. I care about engineering discipline: systems should be understandable, testable, and useful beyond a notebook.
 
-I'm especially drawn to **AI Evaluation**: studying how reliable a model actually is, where it fails, and how to ground its outputs in real evidence. The projects below are independent, self-directed work built to explore these questions in practice.
+The projects below are self-directed portfolio work. They reflect my interest in turning AI ideas into practical software that can be inspected, operated, and evaluated.
 
 ## Selected AI Projects
 
-### Prisma — Production LLM Engineering Platform
+### Prisma v2 — Local-First LLMOps Runtime Core
 
-<img src="assets/PRISMA_02_EVALUATION_COMMAND_CENTER.png" alt="Prisma evaluation command center" width="620" />
+<img src="assets/01_ENGINEERING_OVERVIEW.png" alt="Prisma v2 engineering overview" width="620" />
 
-A local-first LLM engineering platform for developing retrieval-augmented generation workflows with evaluation built into the loop. Prisma combines RAG experiments, prompt regression checks, runtime observability, and a CI evaluation gate so model and prompt changes can be reviewed against measurable quality signals before release.
+Prisma v2 is a local-first runtime core for LLMOps work. It focuses on deterministic execution, persistence, evaluation, observability, prompt lifecycle management, readiness checks, and operational tooling for building reliable, reproducible, and operational AI systems.
 
-**Focus:** Local-First LLM Systems · Retrieval-Augmented Generation · Evaluation · Prompt Regression · Runtime Observability · CI Evaluation Gates
+**Focus:** Local-First AI Runtime · LLMOps · Deterministic Execution · Persistence · Evaluation · Observability · Operational Tooling
 
-**Status:** Completed v1 Portfolio Project
+**Status:** Portfolio Project
 
-**Repository:** [github.com/andrejr03/prisma](https://github.com/andrejr03/prisma)
+**Repository:** [github.com/andrejr03/prisma-llmops](https://github.com/andrejr03/prisma-llmops)
 
 ### Crosswise — AI Document Reconciliation System
 
@@ -42,16 +42,6 @@ An AI evaluation and reliability project for source-grounded question answering 
 
 **Status:** Research-Style Portfolio Project
 
-### StatSport — Explainable Football Match Prediction
-
-<img src="assets/STATSPORT_PREDICTION_CENTER_SHOWCASE_2027_v1.0.png" alt="StatSport prediction center showcase" width="520" />
-
-A football match prediction tool that pairs predictive modelling with clear, human-readable explanations for each forecast. The goal is not just to predict outcomes, but to surface *why* the model leans a certain way and how confident it is.
-
-**Focus:** Machine Learning · Football Prediction · Explainable AI · Model Evaluation · Predictive Analytics
-
-**Status:** Portfolio Project
-
 ### StudentFit Bavaria — AI-Powered Student Housing Recommendation System
 
 <img src="assets/STUDENTFIT_BAVARIA_AI_HOUSING_RECOMMENDATION_SHOWCASE.png" alt="StudentFit Bavaria housing recommendation showcase" width="520" />
@@ -62,14 +52,27 @@ A recommendation system that helps students find housing that fits their needs, 
 
 **Status:** Portfolio Project
 
+### StatSport — Explainable Football Match Prediction
+
+<img src="assets/STATSPORT_PREDICTION_CENTER_SHOWCASE_2027_v1.0.png" alt="StatSport prediction center showcase" width="520" />
+
+A football match prediction tool that pairs predictive modelling with clear, human-readable explanations for each forecast. The goal is not just to predict outcomes, but to surface *why* the model leans a certain way and how confident it is.
+
+**Focus:** Machine Learning · Football Prediction · Explainable AI · Model Evaluation · Predictive Analytics
+
+**Status:** Portfolio Project
+
 ## Technical Interests
 
+- LLMOps
+- AI Systems Engineering
+- Backend Engineering
+- Platform Engineering
+- AI Evaluation
 - Machine Learning
 - Recommendation Systems
 - Explainable AI
 - Predictive Analytics
-- AI Evaluation
-- Data Science
 - Geospatial Analytics
 
 ## Tools & Technologies
@@ -86,9 +89,10 @@ A recommendation system that helps students find housing that fits their needs, 
 
 ## Current Focus
 
-- Building independent AI portfolio projects end-to-end
+- Building AI systems engineering and LLMOps portfolio projects
+- Strengthening backend engineering and platform engineering skills
+- Developing production-quality portfolio projects with clear evaluation and observability
 - Preparing for university studies in Artificial Intelligence
-- Developing practical machine learning and data science skills
 
 ## Contact
 
