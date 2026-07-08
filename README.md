@@ -1,6 +1,6 @@
 # André Ramos
 
-**Incoming Artificial Intelligence Student | AI Systems Engineering, LLMOps, Backend & Platform Engineering**
+**Artificial Intelligence Undergraduate Student | AI Systems Engineering, LLMOps, Backend & Platform Engineering**
 
 I am preparing to begin university studies in Artificial Intelligence while building independent portfolio projects around reliable AI systems, local-first runtimes, backend services, and evaluation workflows.
 
@@ -10,17 +10,29 @@ The projects below are self-directed portfolio work. They reflect my interest in
 
 ## Selected AI Projects
 
-### Prisma v2 — Local-First LLMOps Runtime Core
+### Prisma v2 — Production LLMOps Platform
 
 <img src="assets/01_ENGINEERING_OVERVIEW.png" alt="Prisma v2 engineering overview" width="620" />
 
-Prisma v2 is a local-first runtime core for LLMOps work. It focuses on deterministic execution, persistence, evaluation, observability, prompt lifecycle management, readiness checks, and operational tooling for building reliable, reproducible, and operational AI systems.
+A local-first LLMOps platform focused on deterministic execution, persistence, evaluation, observability, prompt lifecycle, readiness, and operational tooling.
 
 **Focus:** Local-First AI Runtime · LLMOps · Deterministic Execution · Persistence · Evaluation · Observability · Operational Tooling
 
-**Status:** Portfolio Project
+**Status:** Completed Portfolio Project
 
 **Repository:** [github.com/andrejr03/prisma-llmops](https://github.com/andrejr03/prisma-llmops)
+
+### Prisma — Production LLM Engineering Platform
+
+<img src="assets/PRISMA_02_EVALUATION_COMMAND_CENTER.png" alt="Prisma v1 evaluation command center" width="620" />
+
+Prisma v1 is a local-first LLM engineering platform focused on Retrieval-Augmented Generation (RAG), AI evaluation, prompt regression, runtime observability, and source-grounded AI workflows. It demonstrates practical engineering around retrieval quality, evaluation, and reliable LLM application development.
+
+**Focus:** Retrieval-Augmented Generation · AI Evaluation · Prompt Regression · Runtime Observability · Source-Grounded AI
+
+**Status:** Completed Portfolio Project
+
+**Repository:** [github.com/andrejr03/prisma](https://github.com/andrejr03/prisma)
 
 ### Crosswise — AI Document Reconciliation System
 
@@ -30,7 +42,9 @@ An AI system that reconciles invoices, purchase orders, and receipts, detects fi
 
 **Focus:** Document Intelligence · Reconciliation Systems · Reliability Scoring · Human Review · Explainable AI
 
-**Status:** Portfolio Project
+**Status:** Completed Portfolio Project
+
+**Repository:** [github.com/andrejr03/crosswise](https://github.com/andrejr03/crosswise)
 
 ### LexiBench AI — AI Evaluation & Reliability Workbench
 
@@ -40,7 +54,9 @@ An AI evaluation and reliability project for source-grounded question answering 
 
 **Focus:** AI Evaluation · Reliability Engineering · Evidence Completeness · Grounded Retrieval · Responsible AI
 
-**Status:** Research-Style Portfolio Project
+**Status:** Completed Portfolio Project
+
+**Repository:** [github.com/andrejr03/lexibench-ai](https://github.com/andrejr03/lexibench-ai)
 
 ### StudentFit Bavaria — AI-Powered Student Housing Recommendation System
 
@@ -50,7 +66,9 @@ A recommendation system that helps students find housing that fits their needs, 
 
 **Focus:** Recommendation Systems · Decision Intelligence · Geospatial Analytics · Student Fit Scoring
 
-**Status:** Portfolio Project
+**Status:** Completed Portfolio Project
+
+**Repository:** [github.com/andrejr03/studentfit-bavaria](https://github.com/andrejr03/studentfit-bavaria)
 
 ### StatSport — Explainable Football Match Prediction
 
@@ -60,7 +78,9 @@ A football match prediction tool that pairs predictive modelling with clear, hum
 
 **Focus:** Machine Learning · Football Prediction · Explainable AI · Model Evaluation · Predictive Analytics
 
-**Status:** Portfolio Project
+**Status:** Completed Portfolio Project
+
+**Repository:** [github.com/andrejr03/statsport](https://github.com/andrejr03/statsport)
 
 ## Technical Interests
 
@@ -96,4 +116,4 @@ A football match prediction tool that pairs predictive modelling with clear, hum
 
 ## Contact
 
-- **LinkedIn:** available on request
+- **LinkedIn:** https://www.linkedin.com/in/andr%C3%A9-ramos-8307b5416/
